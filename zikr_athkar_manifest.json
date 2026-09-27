@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "2026.09.1",
+  "dataVersion": "2026.09.2",
   "packs": [
     {
       "key": "morning",
@@ -13,8 +13,8 @@
       "itemCount": 25,
       "hasAudio": true,
       "size": 4022048,
-      "sha256": "8a093f445bcac42dc54ae58c522ff13adf33b70ff64e99ebdced8b3f4e35544f",
-      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.1/zikr_athkar_morning.zip"
+      "sha256": "6920946e4692467453da4c10ee43f59310399fb692518c23d73454f09cfd5f9b",
+      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.2/zikr_athkar_morning.zip"
     },
     {
       "key": "evening",
@@ -27,8 +27,8 @@
       "itemCount": 23,
       "hasAudio": true,
       "size": 3682605,
-      "sha256": "4fd9a52428b5f97574418a2cdf733f8f13a1d4703ea32389d2d69a54ecc6ef1b",
-      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.1/zikr_athkar_evening.zip"
+      "sha256": "5bbe20e778464af7220f3a4bd21dd9c3d41e46726c0b38d629f35b96ea01b102",
+      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.2/zikr_athkar_evening.zip"
     },
     {
       "key": "sleep",
@@ -41,8 +41,8 @@
       "itemCount": 19,
       "hasAudio": true,
       "size": 7818626,
-      "sha256": "d783cb6708b8e42c8fe6ce9e7f7a39a10695554d96359a825b265b3a4ff77e15",
-      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.1/zikr_athkar_sleep.zip"
+      "sha256": "b0c3e4e855629f2cf162e640bd8428b3fd0de8f56f4320542e2321f544f6e57b",
+      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.2/zikr_athkar_sleep.zip"
     },
     {
       "key": "wake_up",
@@ -55,8 +55,8 @@
       "itemCount": 4,
       "hasAudio": true,
       "size": 3009006,
-      "sha256": "0a970cbf23e41cfc628dfcc3f3eeae480258ea011c361aaa8b0202341cddba41",
-      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.1/zikr_athkar_wake_up.zip"
+      "sha256": "cc58ab6cb53c076837cfef9188166f11798162125704206269cc702a15e6f213",
+      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.2/zikr_athkar_wake_up.zip"
     },
     {
       "key": "after_prayer",
@@ -69,8 +69,8 @@
       "itemCount": 12,
       "hasAudio": false,
       "size": 3277,
-      "sha256": "8f79bb8a5a67c9c7f8b8ee1eced0bdfcd3c3505a289632aa1bae35fd1eedac7e",
-      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.1/zikr_athkar_after_prayer.zip"
+      "sha256": "4ad9bb9ec639afb7f0810d34d10b4ac977bf4afacb23346456023a75cd2eb5c7",
+      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.2/zikr_athkar_after_prayer.zip"
     },
     {
       "key": "prayer",
@@ -83,8 +83,8 @@
       "itemCount": 17,
       "hasAudio": false,
       "size": 12274,
-      "sha256": "747139211839e9fe144f92595689fa9eaf81951d460e348fcbd00df4eb9ce4eb",
-      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.1/zikr_athkar_prayer.zip"
+      "sha256": "d00e0ef8f0cdbd8b4c939d5ecdd48a41456c91f2b1d8ad23d030954162037b79",
+      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.2/zikr_athkar_prayer.zip"
     },
     {
       "key": "tasbeeh_phrases",
@@ -97,8 +97,8 @@
       "itemCount": 137,
       "hasAudio": false,
       "size": 9374,
-      "sha256": "b760704731c1539bc0420372dfb72941c7e992e88f381a3db2c811ace7ab0862",
-      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.1/zikr_athkar_tasbeeh_phrases.zip"
+      "sha256": "6f10faf6a2d79b88e1275a6e9eade2079aece1ff91d3011b1a676232a1a67da9",
+      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.2/zikr_athkar_tasbeeh_phrases.zip"
     },
     {
       "key": "quran_duaa",
@@ -111,8 +111,8 @@
       "itemCount": 37,
       "hasAudio": false,
       "size": 2869,
-      "sha256": "a559828bfe4ec064999885dbbb04c851ab5ce0984c917fcc54c1399bd0bbeb5e",
-      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.1/zikr_athkar_quran_duaa.zip"
+      "sha256": "662811c9db5acc2c4ed65e6c085b69792c5d4d5cf70a73d3cf97229a79ad5633",
+      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.2/zikr_athkar_quran_duaa.zip"
     },
     {
       "key": "prophet_duaa",
@@ -125,8 +125,8 @@
       "itemCount": 86,
       "hasAudio": false,
       "size": 24178,
-      "sha256": "ad57b633feb94c9e15bdcdfe5c3f5c8e7f1916e9e5a9009ca4e7b3755077cf3b",
-      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.1/zikr_athkar_prophet_duaa.zip"
+      "sha256": "4b46486912cacb124d4a1e591800fe52a06156289bbcb9486fab97424c0bc3a5",
+      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.2/zikr_athkar_prophet_duaa.zip"
     },
     {
       "key": "comprehensive_duaa",
@@ -139,8 +139,8 @@
       "itemCount": 69,
       "hasAudio": false,
       "size": 11004,
-      "sha256": "c4fce7b1de4192427de22511d4b5397e7d72689b2a23cc255cffc9a1ea310736",
-      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.1/zikr_athkar_comprehensive_duaa.zip"
+      "sha256": "dd0dd3bb61f685c00753939dbd2a1fd2b6b4c3555ff05835ff0c299622e6b068",
+      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.2/zikr_athkar_comprehensive_duaa.zip"
     },
     {
       "key": "everyday_duaa",
@@ -153,8 +153,8 @@
       "itemCount": 90,
       "hasAudio": true,
       "size": 504006,
-      "sha256": "2d3438c9d8b7ca0466bf1725cba15b8643a44f5d72b9cc039836a13d769092e4",
-      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.1/zikr_athkar_everyday_duaa.zip"
+      "sha256": "e726dbfaca766201b1434573105b686921fe5e9803b87bfaf403547093e7b9e6",
+      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.2/zikr_athkar_everyday_duaa.zip"
     },
     {
       "key": "praise",
@@ -167,8 +167,8 @@
       "itemCount": 27,
       "hasAudio": false,
       "size": 6361,
-      "sha256": "b6118d1f70262a8f4533a6bb5a201920dfb2b1525f661be91e28008a6bb6e184",
-      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.1/zikr_athkar_praise.zip"
+      "sha256": "ff44c756b8c9a56b1747a719fdc6cc778a2a62232a42483adb858ea253068744",
+      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.2/zikr_athkar_praise.zip"
     },
     {
       "key": "ease_duaa",
@@ -181,8 +181,8 @@
       "itemCount": 33,
       "hasAudio": false,
       "size": 4092,
-      "sha256": "353cf106ace4d765220ac77b3472927295912ac5c26d76fd4b75efb5a4329a8f",
-      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.1/zikr_athkar_ease_duaa.zip"
+      "sha256": "339477a26b38c8cd219bfe38fd6e800c2273a94be9e9cff777e0b0617dd79be9",
+      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.2/zikr_athkar_ease_duaa.zip"
     },
     {
       "key": "qunoot",
@@ -195,8 +195,8 @@
       "itemCount": 17,
       "hasAudio": false,
       "size": 2414,
-      "sha256": "21d5d3c9c0a2a5edefca066f165d2da907c3c6307e1db170709f82c9cbf36e1f",
-      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.1/zikr_athkar_qunoot.zip"
+      "sha256": "c2ad2a851eb6c04e8e4ede48c30960bbb5989b7dc9b0f1ed183e317e9388efb8",
+      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.2/zikr_athkar_qunoot.zip"
     },
     {
       "key": "khatm_quran",
@@ -209,8 +209,8 @@
       "itemCount": 66,
       "hasAudio": false,
       "size": 7661,
-      "sha256": "960fa2ccc967131afb80389ad46f096790b373b7a5edee8b9d2c2ed1c99796ca",
-      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.1/zikr_athkar_khatm_quran.zip"
+      "sha256": "109756bd0a700308143ecac5ccc527f8c5d0511eee823455365e17dbf7fb6f2a",
+      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.2/zikr_athkar_khatm_quran.zip"
     },
     {
       "key": "names_of_allah",
@@ -223,8 +223,8 @@
       "itemCount": 99,
       "hasAudio": false,
       "size": 19827,
-      "sha256": "e9a22ceeb8e002787ecaeda2ab842a769e54c16b3c9e77acd488638d9a960d39",
-      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.1/zikr_athkar_names_of_allah.zip"
+      "sha256": "33dc0a4fc864a2f8bd871c1c43c3243baf5ec3642f09180b7a118e0e49418a23",
+      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.2/zikr_athkar_names_of_allah.zip"
     },
     {
       "key": "ruqyah_quran",
@@ -237,8 +237,8 @@
       "itemCount": 18,
       "hasAudio": true,
       "size": 3942554,
-      "sha256": "1783924fb1765b9b98704876fef2bc46b08080693083fdcfbc06ed9d94301984",
-      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.1/zikr_athkar_ruqyah_quran.zip"
+      "sha256": "2e539101c3eaa9236fa69e610f413b6bfb80ff6e54d89e3da8e4bc88a7e66b65",
+      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.2/zikr_athkar_ruqyah_quran.zip"
     },
     {
       "key": "ruqyah_sunnah",
@@ -251,8 +251,8 @@
       "itemCount": 12,
       "hasAudio": true,
       "size": 1562605,
-      "sha256": "823e5fe865fa579e2db0536e30ab465a1101710c7e43ee36381206d0c41cbfa2",
-      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.1/zikr_athkar_ruqyah_sunnah.zip"
+      "sha256": "d4be1c56b658a559ac0f8a2e81b0ce990104f2fff5e87c30c95638d2650ff351",
+      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.2/zikr_athkar_ruqyah_sunnah.zip"
     },
     {
       "key": "sick_duaa",
@@ -265,8 +265,8 @@
       "itemCount": 49,
       "hasAudio": false,
       "size": 4822,
-      "sha256": "ffd85016354b267c99d2441fc77fbacbc8b2423b124be8b194c67c94019bb5d7",
-      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.1/zikr_athkar_sick_duaa.zip"
+      "sha256": "01d42f7850e2c80b0b22fae1c78c7739b91af24374d6a880b4fd2487a791d840",
+      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.2/zikr_athkar_sick_duaa.zip"
     },
     {
       "key": "family_duaa",
@@ -278,9 +278,9 @@
       "nameEn": "Duaa for loved ones",
       "itemCount": 508,
       "hasAudio": false,
-      "size": 13712,
-      "sha256": "13167bd7082e46f6750968d618aecbcf1d30aba7f1ada3ce9bb745ba19dd4720",
-      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.1/zikr_athkar_family_duaa.zip"
+      "size": 13711,
+      "sha256": "9e199c41b4ecd52da0ecabcd1fe9bc305541f01dbbed6750b45f02a0fc090ec5",
+      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.2/zikr_athkar_family_duaa.zip"
     },
     {
       "key": "deceased_duaa",
@@ -293,8 +293,8 @@
       "itemCount": 151,
       "hasAudio": false,
       "size": 7196,
-      "sha256": "afa19aef7455b18ba2e957be05321895edeaccbef441080c6c7fd59288fd3ec1",
-      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.1/zikr_athkar_deceased_duaa.zip"
+      "sha256": "a8272978f4916399efe605987ed42945746d0269f5f2af3f21ae386cf70607b4",
+      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.2/zikr_athkar_deceased_duaa.zip"
     },
     {
       "key": "ramadan",
@@ -307,8 +307,8 @@
       "itemCount": 31,
       "hasAudio": false,
       "size": 33572,
-      "sha256": "83948b6b91d5050f2863cd90da989772cb960724bcaaef8ba66efd0cb6228f86",
-      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.1/zikr_athkar_ramadan.zip"
+      "sha256": "8024e949a87b243f371d903aca7c56b3047c44238c06756497fc4a940f89551a",
+      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.2/zikr_athkar_ramadan.zip"
     },
     {
       "key": "hajj",
@@ -320,9 +320,9 @@
       "nameEn": "Hajj",
       "itemCount": 105,
       "hasAudio": false,
-      "size": 17333,
-      "sha256": "26c6cd026abdbb756ad386ad8700f449715404e2d0f48b8322dd2789fc8f5f7f",
-      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.1/zikr_athkar_hajj.zip"
+      "size": 17363,
+      "sha256": "2918051eda60b0c5dea688794ed99eac1407fcc8028af7a1ab0f95eef4610022",
+      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.2/zikr_athkar_hajj.zip"
     },
     {
       "key": "umrah",
@@ -334,9 +334,9 @@
       "nameEn": "Umrah",
       "itemCount": 73,
       "hasAudio": false,
-      "size": 13961,
-      "sha256": "6cc8e1116d427c335eade8a46af460786d97691d68b4c8551c4e9393a9a8b1c5",
-      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.1/zikr_athkar_umrah.zip"
+      "size": 14001,
+      "sha256": "6a502e6aa7e5a623555fe9dd684f102ed5bc209af05c4b92d683cf24d6c30a5b",
+      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.2/zikr_athkar_umrah.zip"
     },
     {
       "key": "kids_athkar",
@@ -349,8 +349,8 @@
       "itemCount": 56,
       "hasAudio": false,
       "size": 7998,
-      "sha256": "a2b1ffe246b2b9940d7697a3035526a47625e766a81861bb804be71cc71ad27c",
-      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.1/zikr_athkar_kids_athkar.zip"
+      "sha256": "09424709c837b347c2a1fb25101bd0c339d4024db1c393e3edec0a944e1cffde",
+      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.2/zikr_athkar_kids_athkar.zip"
     }
   ]
 }
