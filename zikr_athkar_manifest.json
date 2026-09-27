@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "2026.09.2",
+  "dataVersion": "2026.09.3",
   "packs": [
     {
       "key": "morning",
@@ -13,8 +13,8 @@
       "itemCount": 25,
       "hasAudio": true,
       "size": 4022048,
-      "sha256": "6920946e4692467453da4c10ee43f59310399fb692518c23d73454f09cfd5f9b",
-      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.2/zikr_athkar_morning.zip"
+      "sha256": "ec51abdf97c710e00d5c5c36a0b23783b7198e7dcff86380e04b7757c11949c7",
+      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.3/zikr_athkar_morning.zip"
     },
     {
       "key": "evening",
@@ -26,9 +26,9 @@
       "nameEn": "Evening athkar",
       "itemCount": 23,
       "hasAudio": true,
-      "size": 3682605,
-      "sha256": "5bbe20e778464af7220f3a4bd21dd9c3d41e46726c0b38d629f35b96ea01b102",
-      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.2/zikr_athkar_evening.zip"
+      "size": 3682604,
+      "sha256": "c866d163c2c07e256de54c5dbf5a8a7437932c202c7993ae2e0d8854b8ed79e8",
+      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.3/zikr_athkar_evening.zip"
     },
     {
       "key": "sleep",
@@ -41,8 +41,8 @@
       "itemCount": 19,
       "hasAudio": true,
       "size": 7818626,
-      "sha256": "b0c3e4e855629f2cf162e640bd8428b3fd0de8f56f4320542e2321f544f6e57b",
-      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.2/zikr_athkar_sleep.zip"
+      "sha256": "4f9f39362e157910a4b355f3ec270d15db89b66f6d1dd3dee265da11f445d04d",
+      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.3/zikr_athkar_sleep.zip"
     },
     {
       "key": "wake_up",
@@ -54,9 +54,9 @@
       "nameEn": "Waking up",
       "itemCount": 4,
       "hasAudio": true,
-      "size": 3009006,
-      "sha256": "cc58ab6cb53c076837cfef9188166f11798162125704206269cc702a15e6f213",
-      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.2/zikr_athkar_wake_up.zip"
+      "size": 3009007,
+      "sha256": "d956dbe7f386e60312cd8284051998ee50fabcf558e130d84f6a756944bb9e68",
+      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.3/zikr_athkar_wake_up.zip"
     },
     {
       "key": "after_prayer",
@@ -68,9 +68,9 @@
       "nameEn": "After prayer",
       "itemCount": 12,
       "hasAudio": false,
-      "size": 3277,
-      "sha256": "4ad9bb9ec639afb7f0810d34d10b4ac977bf4afacb23346456023a75cd2eb5c7",
-      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.2/zikr_athkar_after_prayer.zip"
+      "size": 3276,
+      "sha256": "f6d4a419108acc0e48f2bfbd0618a04956f310be595556afa3187c62e4aa5f2f",
+      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.3/zikr_athkar_after_prayer.zip"
     },
     {
       "key": "prayer",
@@ -80,11 +80,11 @@
       "sort": 5,
       "nameAr": "أذكار الصلاة",
       "nameEn": "Prayer athkar",
-      "itemCount": 17,
+      "itemCount": 18,
       "hasAudio": false,
-      "size": 12274,
-      "sha256": "d00e0ef8f0cdbd8b4c939d5ecdd48a41456c91f2b1d8ad23d030954162037b79",
-      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.2/zikr_athkar_prayer.zip"
+      "size": 12431,
+      "sha256": "83538dd1f6068fb5b3d640a55aac4683a24a231ad2dbd5cabe17bfe77aaf9407",
+      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.3/zikr_athkar_prayer.zip"
     },
     {
       "key": "tasbeeh_phrases",
@@ -97,8 +97,8 @@
       "itemCount": 137,
       "hasAudio": false,
       "size": 9374,
-      "sha256": "6f10faf6a2d79b88e1275a6e9eade2079aece1ff91d3011b1a676232a1a67da9",
-      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.2/zikr_athkar_tasbeeh_phrases.zip"
+      "sha256": "756308cbb1071082125b896901bf05898204ea45bd467fb436b05c86a7f665af",
+      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.3/zikr_athkar_tasbeeh_phrases.zip"
     },
     {
       "key": "quran_duaa",
@@ -111,8 +111,8 @@
       "itemCount": 37,
       "hasAudio": false,
       "size": 2869,
-      "sha256": "662811c9db5acc2c4ed65e6c085b69792c5d4d5cf70a73d3cf97229a79ad5633",
-      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.2/zikr_athkar_quran_duaa.zip"
+      "sha256": "5da9301a3e76b811c1ebe281c8596a20fcde883455488e55a7d6f3cf249c6901",
+      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.3/zikr_athkar_quran_duaa.zip"
     },
     {
       "key": "prophet_duaa",
@@ -125,8 +125,8 @@
       "itemCount": 86,
       "hasAudio": false,
       "size": 24178,
-      "sha256": "4b46486912cacb124d4a1e591800fe52a06156289bbcb9486fab97424c0bc3a5",
-      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.2/zikr_athkar_prophet_duaa.zip"
+      "sha256": "aca9fc74987f90d6cb351da4f88755ee69a274fa494ae679f60ff742bf5577e7",
+      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.3/zikr_athkar_prophet_duaa.zip"
     },
     {
       "key": "comprehensive_duaa",
@@ -138,9 +138,9 @@
       "nameEn": "Comprehensive duaa",
       "itemCount": 69,
       "hasAudio": false,
-      "size": 11004,
-      "sha256": "dd0dd3bb61f685c00753939dbd2a1fd2b6b4c3555ff05835ff0c299622e6b068",
-      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.2/zikr_athkar_comprehensive_duaa.zip"
+      "size": 8974,
+      "sha256": "f970feb5fc0362eabf78de17e134bf8f0d514d0642359539ecf5ccc4446cfd54",
+      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.3/zikr_athkar_comprehensive_duaa.zip"
     },
     {
       "key": "everyday_duaa",
@@ -150,11 +150,11 @@
       "sort": 10,
       "nameAr": "أدعية الأحوال",
       "nameEn": "Everyday duaa",
-      "itemCount": 90,
+      "itemCount": 94,
       "hasAudio": true,
-      "size": 504006,
-      "sha256": "e726dbfaca766201b1434573105b686921fe5e9803b87bfaf403547093e7b9e6",
-      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.2/zikr_athkar_everyday_duaa.zip"
+      "size": 508238,
+      "sha256": "8ae1a7256363d7cf5f918116a92aa73404796e91e467271559b0fa505b137532",
+      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.3/zikr_athkar_everyday_duaa.zip"
     },
     {
       "key": "praise",
@@ -162,195 +162,321 @@
       "kind": "list",
       "mood": "general",
       "sort": 11,
-      "nameAr": "الحمد والاستغفار",
-      "nameEn": "Praise & istighfar",
-      "itemCount": 27,
+      "nameAr": "الحمد والثناء",
+      "nameEn": "Praise and thanks",
+      "itemCount": 25,
       "hasAudio": false,
-      "size": 6361,
-      "sha256": "ff44c756b8c9a56b1747a719fdc6cc778a2a62232a42483adb858ea253068744",
-      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.2/zikr_athkar_praise.zip"
+      "size": 6178,
+      "sha256": "5b9e133f68053b6a0dca69c757960296022d1c7602cbf403e74632d69ff8f3ec",
+      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.3/zikr_athkar_praise.zip"
+    },
+    {
+      "key": "istighfar",
+      "group": "duaa",
+      "kind": "reader",
+      "mood": "evening",
+      "sort": 12,
+      "nameAr": "الاستغفار",
+      "nameEn": "Istighfar",
+      "itemCount": 3,
+      "hasAudio": true,
+      "size": 301157,
+      "sha256": "4b38b306e42ad35fcc5ec09260131f862d8f4f683dac3a97a25ca63744d20956",
+      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.3/zikr_athkar_istighfar.zip"
+    },
+    {
+      "key": "last_two_verses",
+      "group": "daily",
+      "kind": "reader",
+      "mood": "sleep",
+      "sort": 13,
+      "nameAr": "آخر آيتين من سورة البقرة",
+      "nameEn": "The last two verses of Al-Baqarah",
+      "itemCount": 1,
+      "hasAudio": true,
+      "size": 810035,
+      "sha256": "e9e7db6ad3c7c4a62d57ced93cd011fcb4887608cab7bdc14939d3a61c1da4ec",
+      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.3/zikr_athkar_last_two_verses.zip"
     },
     {
       "key": "ease_duaa",
       "group": "duaa",
       "kind": "list",
       "mood": "general",
-      "sort": 12,
+      "sort": 14,
       "nameAr": "أدعية التيسير",
       "nameEn": "Duaa for ease",
       "itemCount": 33,
       "hasAudio": false,
-      "size": 4092,
-      "sha256": "339477a26b38c8cd219bfe38fd6e800c2273a94be9e9cff777e0b0617dd79be9",
-      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.2/zikr_athkar_ease_duaa.zip"
+      "size": 4093,
+      "sha256": "bd66ba00b0fd288365468d1ae0e62242fd8b348e228fc37a590697854ebac4d6",
+      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.3/zikr_athkar_ease_duaa.zip"
     },
     {
       "key": "qunoot",
       "group": "duaa",
       "kind": "list",
       "mood": "evening",
-      "sort": 13,
+      "sort": 15,
       "nameAr": "دعاء القنوت",
       "nameEn": "Qunoot",
       "itemCount": 17,
       "hasAudio": false,
       "size": 2414,
-      "sha256": "c2ad2a851eb6c04e8e4ede48c30960bbb5989b7dc9b0f1ed183e317e9388efb8",
-      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.2/zikr_athkar_qunoot.zip"
+      "sha256": "4f5b14e1219fe46c36d51fbfbeba69447fdea16a46c0853997a9c5ee49fd5aaf",
+      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.3/zikr_athkar_qunoot.zip"
     },
     {
       "key": "khatm_quran",
       "group": "duaa",
       "kind": "list",
       "mood": "evening",
-      "sort": 14,
+      "sort": 16,
       "nameAr": "دعاء ختم القرآن",
       "nameEn": "Completing the Quran",
-      "itemCount": 66,
+      "itemCount": 67,
       "hasAudio": false,
-      "size": 7661,
-      "sha256": "109756bd0a700308143ecac5ccc527f8c5d0511eee823455365e17dbf7fb6f2a",
-      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.2/zikr_athkar_khatm_quran.zip"
+      "size": 7705,
+      "sha256": "38680dacccc579df42c46b728f731e5f6c4b1528910a5987b74dfface5f3cc42",
+      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.3/zikr_athkar_khatm_quran.zip"
     },
     {
       "key": "names_of_allah",
       "group": "duaa",
       "kind": "list",
       "mood": "general",
-      "sort": 15,
+      "sort": 17,
       "nameAr": "أسماء الله الحسنى",
       "nameEn": "Names of Allah",
       "itemCount": 99,
       "hasAudio": false,
-      "size": 19827,
-      "sha256": "33dc0a4fc864a2f8bd871c1c43c3243baf5ec3642f09180b7a118e0e49418a23",
-      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.2/zikr_athkar_names_of_allah.zip"
+      "size": 20710,
+      "sha256": "5230951236f9bd56f76bab5dcd437a8ac3fa6c3cf8fc709aed829dc16d81f492",
+      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.3/zikr_athkar_names_of_allah.zip"
     },
     {
       "key": "ruqyah_quran",
       "group": "healing",
       "kind": "reader",
       "mood": "evening",
-      "sort": 16,
+      "sort": 18,
       "nameAr": "الرقية بالقرآن",
       "nameEn": "Ruqyah from the Quran",
       "itemCount": 18,
       "hasAudio": true,
       "size": 3942554,
-      "sha256": "2e539101c3eaa9236fa69e610f413b6bfb80ff6e54d89e3da8e4bc88a7e66b65",
-      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.2/zikr_athkar_ruqyah_quran.zip"
+      "sha256": "344d112aaa3ef6579396446654457cc74b1e8062f431c3a70f76845b269fd642",
+      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.3/zikr_athkar_ruqyah_quran.zip"
     },
     {
       "key": "ruqyah_sunnah",
       "group": "healing",
       "kind": "reader",
       "mood": "evening",
-      "sort": 17,
+      "sort": 19,
       "nameAr": "الرقية بالسنة",
       "nameEn": "Ruqyah from the Sunnah",
       "itemCount": 12,
       "hasAudio": true,
-      "size": 1562605,
-      "sha256": "d4be1c56b658a559ac0f8a2e81b0ce990104f2fff5e87c30c95638d2650ff351",
-      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.2/zikr_athkar_ruqyah_sunnah.zip"
+      "size": 1562606,
+      "sha256": "bb0c971188d4507c263b6844bbe242d153c804b7daba09ce9be5d1e97d0cc739",
+      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.3/zikr_athkar_ruqyah_sunnah.zip"
     },
     {
       "key": "sick_duaa",
       "group": "healing",
       "kind": "sick",
       "mood": "general",
-      "sort": 18,
+      "sort": 20,
       "nameAr": "أدعية المريض",
       "nameEn": "Duaa for the sick",
       "itemCount": 49,
       "hasAudio": false,
       "size": 4822,
-      "sha256": "01d42f7850e2c80b0b22fae1c78c7739b91af24374d6a880b4fd2487a791d840",
-      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.2/zikr_athkar_sick_duaa.zip"
+      "sha256": "97c3d4219fc536e0eb7eb4668ed2d622f984c4de2f0f85017a510c8dcd989f7e",
+      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.3/zikr_athkar_sick_duaa.zip"
     },
     {
       "key": "family_duaa",
       "group": "loved_ones",
       "kind": "lovedOnes",
       "mood": "morning",
-      "sort": 19,
+      "sort": 21,
       "nameAr": "الدعاء للأحبة",
       "nameEn": "Duaa for loved ones",
       "itemCount": 508,
       "hasAudio": false,
       "size": 13711,
-      "sha256": "9e199c41b4ecd52da0ecabcd1fe9bc305541f01dbbed6750b45f02a0fc090ec5",
-      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.2/zikr_athkar_family_duaa.zip"
+      "sha256": "c960ed2f71c3fdf90c836ff1e3f726e4182baa17e8813c91b6f4144b1aade27b",
+      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.3/zikr_athkar_family_duaa.zip"
     },
     {
       "key": "deceased_duaa",
       "group": "loved_ones",
       "kind": "lovedOnes",
       "mood": "sleep",
-      "sort": 20,
+      "sort": 22,
       "nameAr": "الدعاء للميت",
       "nameEn": "Duaa for the deceased",
       "itemCount": 151,
       "hasAudio": false,
       "size": 7196,
-      "sha256": "a8272978f4916399efe605987ed42945746d0269f5f2af3f21ae386cf70607b4",
-      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.2/zikr_athkar_deceased_duaa.zip"
+      "sha256": "797b5aebbbf139db6d3699722fbd5d5bfe6d5b7f81b3cc842ecba3e1f1531910",
+      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.3/zikr_athkar_deceased_duaa.zip"
     },
     {
       "key": "ramadan",
       "group": "seasons",
       "kind": "ramadan",
       "mood": "evening",
-      "sort": 21,
+      "sort": 23,
       "nameAr": "رمضان",
       "nameEn": "Ramadan",
       "itemCount": 31,
       "hasAudio": false,
-      "size": 33572,
-      "sha256": "8024e949a87b243f371d903aca7c56b3047c44238c06756497fc4a940f89551a",
-      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.2/zikr_athkar_ramadan.zip"
+      "size": 34393,
+      "sha256": "ecbaf029dad706446afbed1a2b39d5be1b95978fa14d2dac369352400bf590ae",
+      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.3/zikr_athkar_ramadan.zip"
     },
     {
       "key": "hajj",
       "group": "seasons",
       "kind": "guide",
       "mood": "morning",
-      "sort": 22,
+      "sort": 24,
       "nameAr": "الحج",
       "nameEn": "Hajj",
       "itemCount": 105,
       "hasAudio": false,
       "size": 17363,
-      "sha256": "2918051eda60b0c5dea688794ed99eac1407fcc8028af7a1ab0f95eef4610022",
-      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.2/zikr_athkar_hajj.zip"
+      "sha256": "09b15c93355a56f286d9d3014948eb443579283b52121e189200bebc02e606bb",
+      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.3/zikr_athkar_hajj.zip"
     },
     {
       "key": "umrah",
       "group": "seasons",
       "kind": "guide",
       "mood": "morning",
-      "sort": 23,
+      "sort": 25,
       "nameAr": "العمرة",
       "nameEn": "Umrah",
       "itemCount": 73,
       "hasAudio": false,
-      "size": 14001,
-      "sha256": "6a502e6aa7e5a623555fe9dd684f102ed5bc209af05c4b92d683cf24d6c30a5b",
-      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.2/zikr_athkar_umrah.zip"
+      "size": 14002,
+      "sha256": "57afc48bcdc14154cb95b62025dcb795f5950088b5e5a96c547167f21b25f880",
+      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.3/zikr_athkar_umrah.zip"
     },
     {
       "key": "kids_athkar",
       "group": "kids",
       "kind": "reader",
       "mood": "morning",
-      "sort": 24,
+      "sort": 26,
       "nameAr": "أذكار الصغار",
       "nameEn": "Kids athkar",
       "itemCount": 56,
       "hasAudio": false,
       "size": 7998,
-      "sha256": "09424709c837b347c2a1fb25101bd0c339d4024db1c393e3edec0a944e1cffde",
-      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.2/zikr_athkar_kids_athkar.zip"
+      "sha256": "94c758d19b049179424f18cee62fe117248ec721108152249b9d03d93fda894c",
+      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.3/zikr_athkar_kids_athkar.zip"
+    },
+    {
+      "key": "duaa_and_dhikr",
+      "group": "worship",
+      "kind": "guide",
+      "mood": "general",
+      "sort": 27,
+      "nameAr": "الدعاء والذكر",
+      "nameEn": "Duaa & Dhikr",
+      "itemCount": 10,
+      "hasAudio": false,
+      "size": 3633,
+      "sha256": "73ad1f17e655934f889c4b200c8235fbd024debfa9899b7e665fd7989524bd86",
+      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.3/zikr_athkar_duaa_and_dhikr.zip"
+    },
+    {
+      "key": "duaa_journey",
+      "group": "worship",
+      "kind": "guide",
+      "mood": "evening",
+      "sort": 28,
+      "nameAr": "رحلة الدعاء",
+      "nameEn": "The Duaa Journey",
+      "itemCount": 15,
+      "hasAudio": false,
+      "size": 2438,
+      "sha256": "0bd539adfff7cccdf73da2168858ece04ba06b036bc398fac7fba8719bc22186",
+      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.3/zikr_athkar_duaa_journey.zip"
+    },
+    {
+      "key": "duha",
+      "group": "worship",
+      "kind": "guide",
+      "mood": "morning",
+      "sort": 29,
+      "nameAr": "صلاة الضحى",
+      "nameEn": "Duha prayer",
+      "itemCount": 11,
+      "hasAudio": false,
+      "size": 2583,
+      "sha256": "44ce77fbfd711cadae95b5d79f9edb9f312fb527f314940f1880d1a7e893a7ac",
+      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.3/zikr_athkar_duha.zip"
+    },
+    {
+      "key": "friday",
+      "group": "worship",
+      "kind": "guide",
+      "mood": "morning",
+      "sort": 30,
+      "nameAr": "يوم الجمعة",
+      "nameEn": "Friday",
+      "itemCount": 13,
+      "hasAudio": false,
+      "size": 3844,
+      "sha256": "d6ed6e65622d098d3ac1895e0e1bef49bbe29a5ddf5b175ecbb0acb83e6036a8",
+      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.3/zikr_athkar_friday.zip"
+    },
+    {
+      "key": "prohibited_times",
+      "group": "worship",
+      "kind": "guide",
+      "mood": "evening",
+      "sort": 31,
+      "nameAr": "أوقات النهي عن الصلاة",
+      "nameEn": "Prohibited prayer times",
+      "itemCount": 11,
+      "hasAudio": false,
+      "size": 3251,
+      "sha256": "11895d5826ee52a911678b7be0455cf8025404f8f30787b69378762c6b8569f9",
+      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.3/zikr_athkar_prohibited_times.zip"
+    },
+    {
+      "key": "sunan_rawatib",
+      "group": "worship",
+      "kind": "guide",
+      "mood": "general",
+      "sort": 32,
+      "nameAr": "السنن الرواتب",
+      "nameEn": "Al-Sunan Al-Rawatib",
+      "itemCount": 6,
+      "hasAudio": false,
+      "size": 1260,
+      "sha256": "ce8bc4140969606e0cf8c032f6eb439e34b3c555660e347d93ad8d7f32dc276f",
+      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.3/zikr_athkar_sunan_rawatib.zip"
+    },
+    {
+      "key": "islamic_quiz",
+      "group": "worship",
+      "kind": "quiz",
+      "mood": "general",
+      "sort": 33,
+      "nameAr": "مسابقة إسلامية",
+      "nameEn": "Islamic quiz",
+      "itemCount": 38,
+      "hasAudio": false,
+      "size": 2060,
+      "sha256": "e3fea76126cf8e81ffb33640b2134ecb76e531f243d34a7cd6e256168276df61",
+      "url": "https://github.com/bilalelsayed97/zikr-athkar-data/releases/download/v2026.09.3/zikr_athkar_islamic_quiz.zip"
     }
   ]
 }
